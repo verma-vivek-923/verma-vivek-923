@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate FullStack web developer from <b>India</b></h3>
         <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" width="400" alt="" />
-<p align="left"> <a href="https://twitter.com/vishalptdr02" target="blank"><img src="https://img.shields.io/twitter/follow/vishalptdr02?logo=twitter&style=for-the-badge" alt="vishalptdr02" /></a> </p>
+<p align="left"> <a href="https://instagram.com/verma.vivek923" target="blank"><img src="https://img.shields.io/instagram/follow/verma.vivek923?logo=instagram&style=for-the-badge" alt="verma.vivek923" /></a> </p>
 
 - 🔭 I’m currently working on **CoolBlog WebApp**
 
