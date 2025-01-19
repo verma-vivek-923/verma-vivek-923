@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @verma-vivek-923
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Vivek Verma
+🎯 A passionate Full Stack Developer from India, dedicated to building dynamic and responsive web applications.
 
-<!---
-verma-vivek-923/verma-vivek-923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently Exploring
+React.js to enhance frontend development skills.
+Expanding knowledge in MERN Stack Development.
+📬 How to Reach Me
+📧 Email: verma022003@gmail.com
+🌐 LinkedIn: Your LinkedIn Profile (Add your LinkedIn link here!)
+🛠️ Skills & Tools
+💻 Programming Languages
+
+
+🌐 Frontend Development
+
+
+
+🖥️ Backend Development
+
+
+📊 Databases
+
+
+⚙️ Tools & Platforms
+
