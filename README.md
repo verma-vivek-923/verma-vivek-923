@@ -40,18 +40,12 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-
 </p>
-
 <hr>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-vivek-923&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
- 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=verma-vivek-923&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
   <br/>
 <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=verma-vivek-923&theme=dark&hide_border=false" alt="verma-vivek-923" alt="streak stats"/>
-
-
 </div>
