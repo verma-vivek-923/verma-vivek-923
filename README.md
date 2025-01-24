@@ -21,7 +21,8 @@
 
 - 📫 How to reach me **verma022003@gmail.com**
 
-- 📄 Know about my experiences
+- 📄 Know about my experiences [https://drive.google.com/file/d/1raMBMo7fGQHuIBd6ojVU9I-9XQ7HIyBO/view?usp=drivesdk
+  ]
 
 - ⚡ Fun fact: I love working on responsive web apps and solving challenging problems!
 
