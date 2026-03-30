@@ -27,6 +27,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=verma-vivek-923&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=verma-vivek-923&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <img width=330 src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-vivek-923&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=verma-vivek-923&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
+  <br/>
+   <br/> 
+<img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=verma-vivek-923&theme=dark&hide_border=false" alt="verma-vivek-923" alt="streak stats"/>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=verma-vivek-923&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
