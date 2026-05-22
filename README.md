@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Verma.</h1>
 
 <h3 align="center">A FullStack web developer from <b>India</b></h3>
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" width="400" alt="" />
+        <!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" width="400" alt="" /> -->
 <p align="left">
   <a href="https://instagram.com/verma.vivek923" target="blank">
     <img src="https://img.shields.io/badge/Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vishalptdr02" />
