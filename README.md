@@ -75,8 +75,8 @@
   <img
     align="center"
     width=390
-    src="https://github-readme-streak-stats.herokuapp.com/?user=verma-vivek-923&theme=dark&hide_border=false"
-    alt="streak stats"
+   src="https://streak-stats.demolab.com/?user=verma-vivek-923&theme=dark&hide_border=false"
+      alt="streak stats"
   />
 
 </div>
